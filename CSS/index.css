@@ -227,11 +227,6 @@
   .sm :hover {
     color: #48dbfb;
   }
-
-  #service :hover {
-      transform: scale(1.1);
-  }
-
   
   .services {
     display: flex;
@@ -242,7 +237,6 @@
   .service :hover {
   transform: scale(1.1); 
 }
-
 
   .titleSection::after {
     width: 300px;
