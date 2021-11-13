@@ -262,7 +262,7 @@
     transition: 0.3s linear;
   }
 
-  .service :hover {
+  .service:hover {
     transform: scale(1.1);
   }
   .serviceMid {
@@ -275,7 +275,7 @@
     color: #FFF7D4;
     transition: 0.3s linear;
   }
-  .serviceMid :hover {
+  .serviceMid:hover {
     transform: scale(1.1);
   }
   .service img {
